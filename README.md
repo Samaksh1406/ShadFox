@@ -21,4 +21,5 @@ Analyzing the sales and profit performance of a retail store is crucial for opti
 - PowerPoint
 
 ## 👤 Author
-- Your Name (Internship Project)
+Samaksh Jain
+A project part of ShadFoxAI internship
